@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    
+    
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    display: block;
+    height: 100px;
+    background-color: ;
+}
+
+.header__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: px 0;
+    
+    border-bottom: 1px  solid white;
+    
+}
+
+.navigation{
+    justify-content: right;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 13px;
+    font-weight: 400;
+}
